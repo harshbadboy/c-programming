@@ -1,9 +1,12 @@
-# C Programming
+C Programming
 
-This repository contains my C programming practice.
+This repository contains my C programming practice and learning journey.
 
-## Programs
-- Hello World
+Programs
 
-## Goal
-Learning C programming and building projects.
+- "hello.c" — Hello World
+- "variables.c" — Variables and data types
+
+Goal
+
+Learn C programming from the basics and gradually build projects.
